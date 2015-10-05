@@ -1,0 +1,10 @@
+{
+  "name": "node-http-tests",
+  "version": "1.0.0",
+  "main": "test.js",
+  "dependencies": {
+    "mocha": "*",
+	"supertest": "*",
+	"supertest-as-promised": "*"
+  }
+}
